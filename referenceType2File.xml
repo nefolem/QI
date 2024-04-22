@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>24aa277deb871fd448cff652cd8d5e92</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-04-22T18:32:37.5737661+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>220a49a68ed89714f8993c1b5b1ebd3f</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-04-22T18:32:37.5871801+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>555a50d30e5f6b64797c3e706b33452c</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-04-22T18:32:37.5999314+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6e1766908c0a16c4692c6979d525a279</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-04-22T18:32:37.612347+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fb748474600b70647ba7f256126b51be</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-04-22T18:32:37.6247984+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e439affc50ec3747b91d228cc0278f3</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-04-22T18:32:37.6383734+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4479c90e6482e4c409056156c0353e40</guid>
+    <fileName>Assets/Scripts/Border.cs</fileName>
+    <timeStamp>2024-02-14T01:47:38.5667299+02:00</timeStamp>
+    <typeFullName>
+      <string>Border</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>575f08667f9ca534da48e80a3aff6a2b</guid>
+    <fileName>Assets/Scripts/ButtonNo.cs</fileName>
+    <timeStamp>2024-02-12T16:12:45.9980162+02:00</timeStamp>
+    <typeFullName>
+      <string>ButtonNo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b42a4b78f461f0a4fbe2d0b1a7418320</guid>
+    <fileName>Assets/Scripts/ButtonYes.cs</fileName>
+    <timeStamp>2024-02-12T21:46:39.4690031+02:00</timeStamp>
+    <typeFullName>
+      <string>ButtonYes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0eaded623c4ed164e956b6f903eecc2a</guid>
+    <fileName>Assets/Scripts/FirstPersonCamera.cs</fileName>
+    <timeStamp>2024-02-14T01:38:39.1487032+02:00</timeStamp>
+    <typeFullName>
+      <string>FirstPersonCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65235c0cb4320174b9ce4535e0421601</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2024-02-14T03:03:02.4163063+02:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>540b5e671909df34095ee2c7ebe1df7b</guid>
+    <fileName>Assets/Scripts/Heart.cs</fileName>
+    <timeStamp>2024-02-12T19:21:06.6069582+02:00</timeStamp>
+    <typeFullName>
+      <string>RotateAndMove</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>820daf9555d101f489190ca725becbf5</guid>
+    <fileName>Assets/Scripts/ObjectInteraction.cs</fileName>
+    <timeStamp>2024-02-13T23:59:50.8910491+02:00</timeStamp>
+    <typeFullName>
+      <string>ObjectInteraction</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2b563ddc2f3d3143a53bf2b089683b6</guid>
+    <fileName>Assets/Scripts/SphereGravity.cs</fileName>
+    <timeStamp>2024-02-14T01:40:19.5491746+02:00</timeStamp>
+    <typeFullName>
+      <string>SphereGravity</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
